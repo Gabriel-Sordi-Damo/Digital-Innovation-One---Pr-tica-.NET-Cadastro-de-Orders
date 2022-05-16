@@ -1,0 +1,13 @@
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\bin\Debug\netcoreapp3.1\APPCadastro.exe
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\bin\Debug\netcoreapp3.1\APPCadastro.deps.json
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\bin\Debug\netcoreapp3.1\APPCadastro.runtimeconfig.json
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\bin\Debug\netcoreapp3.1\APPCadastro.runtimeconfig.dev.json
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\bin\Debug\netcoreapp3.1\APPCadastro.dll
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\bin\Debug\netcoreapp3.1\APPCadastro.pdb
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\obj\Debug\netcoreapp3.1\APPCadastro.csprojAssemblyReference.cache
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\obj\Debug\netcoreapp3.1\APPCadastro.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\obj\Debug\netcoreapp3.1\APPCadastro.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\obj\Debug\netcoreapp3.1\APPCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\obj\Debug\netcoreapp3.1\APPCadastro.dll
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\obj\Debug\netcoreapp3.1\APPCadastro.pdb
+C:\Users\Gabi\Desktop\ProjetosDio\APPCadastro\obj\Debug\netcoreapp3.1\APPCadastro.genruntimeconfig.cache
