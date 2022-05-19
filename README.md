@@ -16,7 +16,7 @@ Ao iniciar o APP temos algumas opções no menu
 - Adicionar uma Order: Passa pelo processo de coleta de dados do usuario e armazena a Order na memória 
 - Excluir uma Order: Coleta o id da Order a ser deletada, se a mesma existir é maracada como deletada. A Order não é removida da memória
 - Atualizar uma Order: Coleta os dados e id da Order a ser atualizada, se a mesma existir é atualizada
-- Printar todas as Orders: Printa todas as Orders que estão aramzenadas na mememória
+- Printar todas as Orders: Printa todas as Orders que estão armazenadas na mememória
 - Printar Order por ID: Printa a Order com mesmo ID, caso nem uma exista um Pseudo-Null-Object-Pattern é aplicado e um Null Object Order é printado
 
 # Código
