@@ -1,5 +1,5 @@
 # APP
-O APP permite o casdastro de Orders
+O APP permite o cadastro de Orders
 ## Orders
 possuem:
 - id: gerado por um gerador de id que gera um identificador único dentro do contexto desse app e é usado para inicializar o id
